@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Poker</string>
+    <string name="dealer_s_hand">Dealer\'s hand</string>
+    <string name="your_hand">Your hand</string>
+    <string name="place_your_bet">Place your bet</string>
+    <string name="instruct_message">Place bet or select cards to swap!</string>
+    <string name="bet">Bet</string>
+    <string name="chips">Chips</string>
+    <string name="play">Play</string>
+    <string name="card9">card9</string>
+    <string name="card8">card8</string>
+    <string name="card7">card7</string>
+    <string name="card10">card10</string>
+    <string name="card6">card6</string>
+    <string name="card5">card5</string>
+    <string name="chip10">chip10</string>
+    <string name="chip25">chip25</string>
+    <string name="chip5">chip5</string>
+    <string name="card4">card4</string>
+    <string name="card3">card3</string>
+    <string name="card1">card1</string>
+    <string name="card2">card2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="player_name">Player name</string>
+    <string name="update">update</string>
+    <string name="cancel">cancel</string>
+</resources>
